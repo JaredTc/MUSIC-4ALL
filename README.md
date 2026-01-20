@@ -2,9 +2,10 @@
 
 
 ## 🔹 Capturas de pantalla
+Pantalla principal:
 
+![Pantalla principal](docs/home.png)
 
-![Inpsiracion]
 
 ## 🎨 Inspiración de diseño
 
