@@ -1,4 +1,8 @@
 
+# 🎵 Discover Music App
+
+Aplicación de música inspirada en un diseño moderno de Dribbble. Permite explorar canciones, navegar por albums y ver listas de reproducción con un diseño limpio y efectos visuales atractivos.
+
 # 📂 Estructura del proyecto
 
 ```bash
