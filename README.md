@@ -4,7 +4,7 @@
 ## 🔹 Capturas de pantalla
 Pantalla principal:
 
-![Pantalla principal](docs/home.png)
+![Pantalla principal](docs/home.jpeg)
 
 
 ## 🎨 Inspiración de diseño
