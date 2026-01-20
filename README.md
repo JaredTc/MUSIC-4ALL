@@ -34,7 +34,7 @@ lib/
 Pantalla principal:
 <img src="docs/home.jpeg" alt="Pantalla principal" width="200"/>
 <img src="docs/play.jpeg" alt="Pantalla principal" width="200"/>
-<img src="docs/config.jpegg" alt="Pantalla principal" width="200"/>
+<img src="docs/config.jpeg" alt="Pantalla principal" width="200"/>
 
 
 ## 🎨 Inspiración de diseño
