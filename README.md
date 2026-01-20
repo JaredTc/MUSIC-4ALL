@@ -1,5 +1,18 @@
 
+# 📂 Estructura del proyecto
 
+```bash
+assets/                  # Imágenes y recursos
+docs/                    # Capturas de pantalla y GIFs para README
+lib/
+├── main.dart            # Punto de entrada
+├── core/                # Configuraciones y constantes generales
+├── data/                # Modelos y repositorios de datos
+├── providers/           # Providers de estado
+├── ui/                  # Pantallas y widgets
+└── util/                # Utilidades y helpers (ej. Images.dart)
+
+```
 
 ## 🔹 Capturas de pantalla
 Pantalla principal:
