@@ -22,7 +22,8 @@ lib/
 Pantalla principal:
 
 ![Pantalla principal](docs/home.jpeg)
-
+![Pantalla principal](docs/play.jpeg)
+![Pantalla principal](docs/config.jpeg)
 
 ## 🎨 Inspiración de diseño
 
