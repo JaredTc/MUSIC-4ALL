@@ -32,6 +32,7 @@ lib/
 
 ## 🔹 Capturas de pantalla
 Pantalla principal:
+<img src="docs/home.jpeg" alt="Pantalla principal" width="200"/>
 
 ![Pantalla principal](docs/home.jpeg)
 ![Pantalla principal](docs/play.jpeg)
