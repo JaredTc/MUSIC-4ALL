@@ -43,3 +43,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+
+# Web
+/web/.dart_tool/
+
+# Desktop (si ya las borraste no hace falta)
+windows/
+macos/
+linux/
