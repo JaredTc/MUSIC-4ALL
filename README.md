@@ -3,6 +3,15 @@
 
 Aplicación de música inspirada en un diseño moderno de Dribbble. Permite explorar canciones, navegar por albums y ver listas de reproducción con un diseño limpio y efectos visuales atractivos.
 
+🔹 Características
+- Reproduccion de musica almacenada en el dispositivo
+- Carrusel horizontal de albums con imágenes escaladas y redondeadas.
+- Lista vertical de canciones con título, artista y duración.
+- Efecto blur/frosted glass en los cards de albums.
+- Diseño responsive y oscuro, ideal para exploración de música.
+- Manejo de estado con Provider (songsProvider).
+
+
 # 📂 Estructura del proyecto
 
 ```bash
